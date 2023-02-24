@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"name": "WWW",
+		"path": "../../WWW"
+	},
+	{
+		"name": "Frontend",
+		"path": "../../Frontend"
+	},
+	{
+		"name": "Html",
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "WWW"
+  }
+}
